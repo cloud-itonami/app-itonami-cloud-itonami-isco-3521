@@ -1,4 +1,6 @@
 # cloud-itonami-isco-3521
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 3521. This app is not produced, reviewed or endorsed by the ILO.
+職業の参照: ISCO-08（国際労働機関 ILO、2012 年）のコード 3521。日本語の名称は当方の訳です。この app は ILO が作成・確認・推奨したものではありません。
 
 Open Occupation Blueprint for **ISCO-08 3521**: Broadcasting and Audiovisual Technicians.
 
